@@ -47,11 +47,15 @@ hist(height_female$Height)
 
 # Give the axes labels and column colour
 ?hist()
-hist(height_male$Height, main=NULL, xlab="Student heights (cm)",
-     col = "green")
+hist(height_male$Height,
+  main = NULL, xlab = "Student heights (cm)",
+  col = "green"
+)
 
-hist(height_female$Height, main=NULL, xlab="Student heights (cm)",
-     col = "green")
+hist(height_female$Height,
+  main = NULL, xlab = "Student heights (cm)",
+  col = "green"
+)
 
 # Challenge: Repeat this with GGPLOT and improve upon formatting
 
