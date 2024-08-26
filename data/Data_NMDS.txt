@@ -1,0 +1,17 @@
+Location	Day	Time	Temperature	PAR	Moisture	SpeciesA	SpeciesB	SpeciesC	SpeciesD
+Paddock	1	Morning	5.5	204	22	10	50	0	20
+Paddock	2	Morning	4.9	184	18	12	44	2	15
+Paddock	3	Morning	4.9	176	17	11	63	1	17
+Paddock	4	Morning	5.1	199	20	5	74	3	12
+Paddock	1	Afternoon	27.1	815	8	20	55	4	3
+Paddock	2	Afternoon	28.2	846	9	18	57	1	4
+Paddock	3	Afternoon	27.9	981	12	16	41	0	1
+Paddock	4	Afternoon	27.4	942	13	24	49	2	1
+Forest	1	Morning	13.1	52	50	1	49	123	0
+Forest	2	Morning	14.2	57	60	1	78	102	5
+Forest	3	Morning	14.3	49	48	2	63	147	3
+Forest	4	Morning	13.5	38	53	0	67	99	0
+Forest	1	Afternoon	21.3	305	42	3	58	55	31
+Forest	2	Afternoon	21.8	412	48	5	74	69	25
+Forest	3	Afternoon	21.8	356	34	0	89	47	29
+Forest	4	Afternoon	21.5	379	39	4	72	53	45
