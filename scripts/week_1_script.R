@@ -94,7 +94,7 @@ median(mydata)
 # Dataframes.  Different ways of creating these but here is a simple method.  
 df_fruit <- c("Kiwi","Banana","Apple","Honey Melon","Tangelo")
 df_weight <- c(30,80,75,450,90)
-df_price <- c(0.7, 1.0,1.2,3.5,1.5) 
+df_price <- c(0.7, 1.0,1.2,3.5,1.5)
 my_dataframe1 <- data.frame(Fruit = df_fruit, Weight = df_weight, Price = df_price)
 
 View(my_dataframe1)  # Get into the habit of checking your date carefully after creating or importing (using View(), head(), str(), to help avoid any problems later.
@@ -112,7 +112,7 @@ my_dataframe1[,"Weight"] # Could also use my_dataframe1$Weight to show just the 
 # file but there are some included data frames.
 
 data()  ## () is a wild card.  Shows all the existing data frames that have been provided in R.
-data(trees) # Loads this included data frame
+data(trees) # Loads this included data framelib
 
 View(trees) # Can also click on in Global environment.
 head(trees)
